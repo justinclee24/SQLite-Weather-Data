@@ -1,6 +1,6 @@
 # Surfs Up SQLite Weather_Data
 ## Overview of the analysis
-Along with a robust business plan provided to W. Avy, this analyis provides evidence that opening up a surf shop in Oahu, Hawaii will yield adequate weather conditions year round in order to be successful.
+Along with a robust business plan provided for W. Avy, this analyis provides evidence that opening up a surf shop in Oahu, Hawaii will yield adequate weather conditions year round in order to be successful selling surfboards and ice cream.
 
 ## Results
 - Based on the summary statistics of both months, the difference in mean tempereature is only 3.9 degrees (June: 74.94 F; December: 71.04 F).
