@@ -1,4 +1,4 @@
-# Surfs Up SQLite Weather_Data
+# Surfs Up SQLite Weather Data
 ## Overview of the analysis
 Along with a robust business plan provided for W. Avy, this analyis provides evidence that opening up a surf shop in Oahu, Hawaii will yield adequate weather conditions year round in order to be successful selling surfboards and ice cream.
 
